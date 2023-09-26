@@ -3,6 +3,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjinhong&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=jangjinhong&show_icons=true">
 
+<img src="https://img.shields.io/badge/pink?style=flat&logo=핑쿠&logoColor=white"/>
+
+
 <!--
 **jangjinhong/jangjinhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
