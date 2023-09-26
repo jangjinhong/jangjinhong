@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjinhong&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=jangjinhong&show_icons=true">
 
-<div align="left">
+<div align="left"> <h2> STACK </h2>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
