@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi i'm Jinhong:) 👋
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjinhong&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=jangjinhong&show_icons=true">
