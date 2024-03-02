@@ -12,10 +12,10 @@
 	
 </div>
 
-[![Solved.ac프로필]
-(http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})]
+[![Solved.jangjinhong]
+(http://mazassumnida.wtf/api/mini/generate_badge?boj={jangjinhong})]
 ![](https://velog.velcdn.com/images/pexe99/post/11b39a55-7693-4a77-afa3-9b197fc070e9/image.png)
-(https://solved.ac/{handle})
+(https://solved.ac/{jangjinhong})
 <!--
 **jangjinhong/jangjinhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
