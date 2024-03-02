@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=venom)
+
 ### Hi i'm Jinhong:) 👋
 #### 🌱 I’m currently learning Spring Boot👯
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjinhong&show_icons=true&theme=radical)
@@ -12,10 +14,6 @@
 	
 </div>
 
-[![Solved.jangjinhong]
-(http://mazassumnida.wtf/api/mini/generate_badge?boj={jangjinhong})]
-![](https://velog.velcdn.com/images/pexe99/post/11b39a55-7693-4a77-afa3-9b197fc070e9/image.png)
-(https://solved.ac/{jangjinhong})
 <!--
 **jangjinhong/jangjinhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
