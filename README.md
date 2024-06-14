@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Jangjinhong)
+<div align="center">
+  <img src="https://github.com/jangjinhong/jangjinhong/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
 <br><br>
 ### Hi:) 👋
 #### 🌱 I’m currently learning Spring Boot👯
@@ -11,6 +13,17 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python-&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+</div>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@oka1313">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:honge1122@naver.com">
+    <img
+      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 </div>
 
 <!--
