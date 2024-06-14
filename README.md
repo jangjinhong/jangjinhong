@@ -2,7 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jinhong's%20GitHub%20❤️‍🔥&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ---
-<br>
+
+<br><br>
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhonge1122%2Fhit-counter&count_bg=%23E8BDEE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjinhong&show_icons=true&bg_color=00000000) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjinhong&show_icons=true&theme=radical) -->
@@ -19,7 +21,7 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <br>
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </div>
 
 <br><br>
