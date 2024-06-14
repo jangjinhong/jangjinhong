@@ -24,8 +24,7 @@
 
 <br><br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<div align="center"> <h2 align="center">📫 Contact 📫</h2>
   <a href="https://velog.io/@jangintech">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
 	  
