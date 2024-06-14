@@ -4,9 +4,8 @@
 ---
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjinhong&show_icons=true&bg_color=00000000)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjinhong&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjinhong&show_icons=true&bg_color=00000000) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjinhong&show_icons=true&theme=radical) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjinhong&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
