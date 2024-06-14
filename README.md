@@ -27,7 +27,7 @@
   </a>
   <a href="mailto:honge1122@naver.com">
     <img
-      src="https://img.shields.io/badge/honge1122@naver.com.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/honge1122@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
 
