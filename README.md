@@ -26,7 +26,7 @@
   </div>
   <div>
     <!-- 클라우드 -->
-    <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+    <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   </div>
   <div>
     <!-- 프로그래밍 언어 -->
