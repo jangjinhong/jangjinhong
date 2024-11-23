@@ -35,7 +35,7 @@
   <div>
     <!-- 프레임워크 -->
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
-    <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=spring security&logoColor=white">
+    <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   </div>
   <div>
     <!-- 데이터베이스 -->
