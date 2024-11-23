@@ -16,18 +16,40 @@
 ---
 
 <br><br>
-<div align="center"> <h2> STACK </h2>
-	<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-	<img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white">
-	<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-	<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=spring security&logoColor=white"> 
-	<img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kali linux&logoColor=white"> 
-	<img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"> 
-	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-	
+<div align="center">
+  <h2> STACK </h2>
+  <div>
+    <!-- 운영체제 -->
+    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kali linux&logoColor=white">
+    <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white">
+  </div>
+  <div>
+    <!-- 클라우드 -->
+    <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+  </div>
+  <div>
+    <!-- 프로그래밍 언어 -->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  </div>
+  <div>
+    <!-- 프레임워크 -->
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+    <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=spring security&logoColor=white">
+  </div>
+  <div>
+    <!-- 데이터베이스 -->
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  </div>
+  <div>
+    <!-- 보안 도구 -->
+    <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
+  </div>
+  <div>
+    <!-- 버전 관리 -->
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  </div>
+
 <br>
    	<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
    	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
